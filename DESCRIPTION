@@ -1,0 +1,16 @@
+Package: MetTarget
+Title: Metabolic Target Identification
+Version: 1.0.0
+Author: Lu Zhang, Yingnan Han, Heming Xing, Andre Kurlovs, and MetTarget Team
+Maintainer: Lu Zhang <lu.zhang3@sanofi.com>
+Description: MetTarget is a machine learning framework for prioritizing immunometabolic therapeutic targets in inflammatory bowel disease (IBD). It integrates public genetics, bulk RNA-seq, and single-cell RNA-seq data to score and rank candidate targets in Crohn's disease (CD) and ulcerative colitis (UC).
+Imports:
+    circlize,
+    ComplexHeatmap,
+    dplyr,
+    ggplot2,
+    openxlsx,
+    RColorBrewer,
+    reshape2,
+    scales,
+    tidyr

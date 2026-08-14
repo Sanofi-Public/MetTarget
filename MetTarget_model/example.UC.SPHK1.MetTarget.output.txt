@@ -1,0 +1,2 @@
+gene	predicted.MetTarget.score
+SPHK1	0.76467072074073
